@@ -86,7 +86,6 @@ public class AdvanceAdapter extends RecyclerView.Adapter<AdvanceAdapter.ViewHold
         holder.tv11.setText(movie.getName());
         holder.iv11.setImageResource(movie.getThumb());
 
-
     }
 
 

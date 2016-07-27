@@ -16,6 +16,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".nextPage"/>
+        <activity android:name=".databasetest"/>
     </application>
 
 </manifest>
